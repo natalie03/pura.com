@@ -3,3 +3,7 @@
 
 node_modules
 
+webroot/app/res/components
+webroot/app/res/build
+
+
